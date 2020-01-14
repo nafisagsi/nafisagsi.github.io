@@ -46,3 +46,19 @@ body{
     padding-top: 10px;
     padding-right: 100px;
 }
+
+.colorz{
+    color:lightseagreen;
+}
+
+footer{
+    background-color: lightseagreen;
+    padding: 30px;
+    text-align:right;
+    font-size: 5px;
+    color: seagreen
+}
+
+footer a:visited{
+    color:seagreen
+}
